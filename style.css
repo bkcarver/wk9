@@ -1,0 +1,14 @@
+h1	{
+	font-family: sans-serif;
+	color:#fff;
+	background: #000;
+	width: 100%;
+	text-align:center;
+	padding:10,0,0,10;
+}
+
+#llamaFacts	{
+	font-family:sans-serif;
+	text-align:center;
+	width:100%;
+}
